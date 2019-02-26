@@ -7,6 +7,8 @@ Here are some tools that we use to introduce various mathematical and computatio
 
 [MATLAB script for boat modeling](https://drive.google.com/open?id=15sFfvCS-eCwaSVjfIEiIkUwaZrH-8ofX)
 
+![An animation of the boat modeling script showing the waterline of a boat with various structures and orientations.](figures/matlab_boat_modeler.gif)
+
 ## Robots and Sensors as Services
 
 In order to make the barrier to integrating sensing and robotic hardware into projects, I have created a number of packages that allow students to interface to these platforms wirelessly.  I use ROS (Robot Operating System) as a middleware platform, which allows students to write code in Python, C++, Java, or MATLAB.
