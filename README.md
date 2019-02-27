@@ -42,3 +42,9 @@ Technology, Accessibility, and Design (TAD) is a course that I co-developed with
 
 * [Web Accessibility Quick Check](http://waqc.herokuapp.com/)
 * [Chef's Touch](https://github.com/arianaolson419/AccessibleCooking)
+
+## Robotics
+
+I teach a number of robotics classes.  [A Computational Introduction to Robotics](https://sites.google.com/site/comprobo18/home?authuser=0) is a full semester course that emphasizes the software engineering, algorithmic, and modeling decisions that go into programming modern robotic systems.
+
+For Olin's integreated course Quantitative Engineering Analysis, I co-developed two robotics modules.  The first, Robo Ninja Warrior, uses mobile robotics as a way to teach physics, math, and computational concepts (with a particular emphasis on optimization).  The second, Rocky the Inverted Pendulum Robot provides a deep dive into modeling and controls with the goal of getting a Segway-like robot to perform various tasks.  Both of these modules are not available in a public repository; however, I am willing (and excited) to share them.  Please reach out to me if you'd like to use or learn more about these materials.
