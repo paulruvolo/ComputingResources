@@ -11,7 +11,7 @@ Here are some tools that we use to introduce various mathematical and computatio
 
 ## Software Design
 
-Software Design is Olin's entrypoint into the computing curriculum.  It provides a broad set of skills useful for all engineers.  The course uses a series of themed mini projects to familiarize students with computational ideas and help them build the skills and confidence to take on a large, open-ended team project.
+Software Design is Olin's entrypoint into the computing curriculum.  It provides a broad set of skills useful for all engineers.  The course uses a series of themed mini projects to familiarize students with computational ideas and help them build the skills and confidence to take on a large, open-ended team project.  To get a better sense of the course in totality, consult the [2018 Spring Software Design class webpage](https://sd18spring.github.io/).
 
 
 ### Final Projects
