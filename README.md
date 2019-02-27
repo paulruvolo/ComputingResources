@@ -33,6 +33,8 @@ In order to make the barrier to integrating sensing and robotic hardware into pr
 
 
 * [Wireless Neato connection instructions in Python](https://sites.google.com/site/comprobo18/how-to/setting-up-your-environment?authuser=0) [Wireless Neato connection instructions for MATLAB](https://docs.google.com/document/d/17ita7IdgjyPXozO6x2rHP4qAwJgT1e4B124CRmnSkfA/edit?usp=sharing) (Contact me at Paul.Ruvolo@olin.edu if you are interested in using this hardware platform.  I will share my platform which combines a Raspberry Pi and PiCam module to the commercially available Neato platform.  Total cost is about $350.)
+![The Neato platform with wireless streaming and video capability](figures/neato_platform.png)
+![The Neato performing SLAM on an indoor space](figures/neato_slam.gif)
 
 ## Technology, Accessibility, and Design
 
